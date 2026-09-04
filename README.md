@@ -9,14 +9,14 @@ Un lanzador de Minecraft elegante y optimizado, desarrollado con **Electron** y 
 *   **Control de Java y Memoria RAM:** Modifica la ruta del ejecutable de Java y ajusta la memoria RAM asignada al juego de forma sencilla desde el panel de ajustes.
 *   **Interfaz Glassmorphism:** Diseño moderno con modales animados, temas intercambiables y selector de color personalizado.
 
-## 🛠️ Tecnologías Utilizadas
-
+##  Tecnologías Utilizadas
+*   **Sigueme pa:** Buscame como iamnorus en youtube y tiktok
 *   **Electron:** Entorno de ejecución para aplicaciones de escritorio multiplataforma.
 *   **HTML5 & CSS3:** Estilos modernos basados en variables, efectos de desenfoque y animaciones fluidas.
 *   **JavaScript (Vanilla):** Control de la interfaz, lógica de renderizado y comunicación segura mediante IPC.
 *   **FontAwesome & Google Fonts:** Iconografía vectorial y tipografía (Inter).
 
-## ⚙️ Instalación y Desarrollo Local
+##  Instalación y Desarrollo Local
 
 Clona el repositorio e instala las dependencias necesarias en tu terminal:
 
